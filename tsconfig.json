@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "eslint.config.js"  ],
   "exclude": ["node_modules"]
 }
